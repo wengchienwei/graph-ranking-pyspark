@@ -49,6 +49,8 @@ Repeated matrix joins were slow → Cached transition matrix outside iteration l
 
 ---
 
+## Author
+
 **Chien-Wei WENG**  
 MSc Data Sciences and Business Analytics  
 CentraleSupélec × ESSEC Business School
