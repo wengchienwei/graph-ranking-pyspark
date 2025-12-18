@@ -53,6 +53,6 @@ Repeated matrix joins were slow → Cached transition matrix outside iteration l
 MSc Data Sciences and Business Analytics  
 CentraleSupélec × ESSEC Business School
 
-*Course: Scalable Data Algorithms (Fall 2025) | Prof. Mohamed Ndaoud (ESSEC)*
-
-**Note**: Course materials and assignment data are not included in this repository.
+*Academic Project | Scalable Data Algorithms (Fall 2025)*  
+*Instructor: Prof. Mohamed Ndaoud (ESSEC Business School)*
+**Note**: Academic materials and assignment data are not included in this repository.
