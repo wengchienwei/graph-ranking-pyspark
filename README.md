@@ -55,4 +55,5 @@ CentraleSupélec × ESSEC Business School
 
 *Academic Project | Scalable Data Algorithms (Fall 2025)*  
 *Instructor: Prof. Mohamed Ndaoud (ESSEC Business School)*
-**Note**: Academic materials and assignment data are not included in this repository.
+
+***Note**: Academic materials and assignment data are not included in this repository.*
